@@ -39,7 +39,8 @@ python gui_main.py
 
 ## Extracted media
 Notes: "Common"  in this program means it will extract media from folders DCIM, Download, Pictures, Movies.
-This folders will appears in the current directory where all your images and videos will be stored.
+
+### This folders will appears in the current directory where all your images and videos will be stored.
 
 * Android_Pictures - Store images file type
 * Android_Videos - Store videos file type
