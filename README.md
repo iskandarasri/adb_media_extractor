@@ -1,4 +1,4 @@
-# Images and Videos Puller ADB
+# Images and Videos Puller ADB by Iskandar
 
 A command-line tool and GUI that helps you transfer media files (images and videos) from an Android device to your computer using ADB (Android Debug Bridge). The program provides a simple menu interface to select which types of files to extract and from which locations on the device.
 
